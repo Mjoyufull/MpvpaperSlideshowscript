@@ -22,7 +22,7 @@ A seamless wallpaper slideshow script for Wayland compositors using mpvpaper. Th
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/mpvpaper_slideshow.git
+   git clone https://github.com/Mjoyufull/MpvpaperSlideshowscript/
    ```
 
 2. Make the script executable:
